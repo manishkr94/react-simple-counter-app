@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test counter render counter component 1`] = `
+<div
+  className="App"
+>
+  ;
+  <div
+    className="count"
+  >
+    Count: 
+    0
+  </div>
+  <button
+    onClick={[Function]}
+  >
+    Increase Count
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    Decrease Count
+  </button>
+</div>
+`;
